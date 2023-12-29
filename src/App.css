@@ -1,0 +1,28 @@
+html , body {
+  font-size: 18px;
+  background-color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.H1 {top: 200%;
+}
+.center-pagge{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 600px;
+  display: flex;
+
+}
+
+
+.App{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  align-items: center ;
+  justify-content: center;
+  margin: 50px;
+}
+
